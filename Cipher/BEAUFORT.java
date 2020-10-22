@@ -10,6 +10,8 @@ public class BEAUFORT {
         StringBuilder str1 = new StringBuilder();
         StringBuilder str2 = new StringBuilder();
         StringBuilder str3 = new StringBuilder();
+        StringBuilder str4 = new StringBuilder();
+
 
         String secInputText;
 
